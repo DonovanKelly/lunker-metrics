@@ -1,0 +1,7 @@
+.idea
+asos
+*.csv
+__pycache__
+*.pkl
+.cache.sqlite
+.DS_Store
